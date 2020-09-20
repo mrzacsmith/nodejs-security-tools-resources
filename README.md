@@ -10,6 +10,7 @@
   - [Input/Output Validation](#input-validation--output-encoding)
   - [Secure Composition](#secure-composition)
   - [CSRF](#csrf)
+  - [XSS](#xss)
   - [Vulnerabilities and Security Advisories](#vulnerabilities-and-security-advisories)
   - [Security Hardening](#security-hardening)
 - [Security Incidents](#security-incidents)
@@ -38,6 +39,8 @@
 
 ## Secure Composition
 
+## XSS
+- [Google Learn XSS](https://www.google.com/about/appsecurity/learning/xss/)
 
 ## CSRF
 - [csurf](https://www.npmjs.com/package/csurf) - Node.js CSRF protection middleware.
