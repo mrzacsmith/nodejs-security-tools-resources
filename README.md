@@ -18,6 +18,7 @@
   - [Articles](#articles)
   - [Research Papers](#research-papers)
   - [Books](#books)
+  - [Other Lists](#other-lists)
 - [Companies](#companies)
 
 # Tools
@@ -32,6 +33,7 @@
 
 ## Input Validation & Output Encoding
 - [validator](https://github.com/chriso/validator.js) - An npm library of string validators and sanitizers.
+- [Reverse shell on NodeJS application](https://wiremask.eu/writeups/reverse-shell-on-a-nodejs-application/)
 
 
 ## Secure Composition
@@ -47,6 +49,7 @@
 
 ## Security Hardening
 - [tor-detect-middleware](https://github.com/UlisesGascon/tor-detect-middleware) Tor detect middleware for express
+- [10 Tools to Secure NodeJS Applications Online](https://geekflare.com/how-to-secure-nodejs/)
 
 
 
@@ -68,12 +71,14 @@ NodeJS, JavaScript, and NPM related communities, groups, and materials related t
  - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
  - [10 npm security best practices](https://snyk.io/blog/ten-npm-security-best-practices/)
  - [OWASP Cheat Sheet Series - Node.js Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_security_cheat_sheet.html)
+ - [Implement Access Control in Node.js](https://blog.nodeswat.com/tagged/cybersecurity)
 
 
 ## Books
 - [Secure Your Node.js Web Application: Keep Attackers Out and Users Happy](https://www.amazon.com/Secure-Your-Node-js-Web-Application-ebook/dp/B01BPPUP30) by Karl Duuna, 2016
 
-
+## Other Lists
+  - [What a Pwnly Day: Learn NodeJS](https://canyoupwn.me/en-awesome-learn-nodejs/)
 
 # Companies
 
